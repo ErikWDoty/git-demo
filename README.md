@@ -16,3 +16,6 @@ Push the changes
 
 ##Step 5
 Push Changes
+
+## Step 6
+Push
